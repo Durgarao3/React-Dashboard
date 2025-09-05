@@ -50,4 +50,4 @@ src/
   npm run build
   ```
 ## 📸 Screenshots
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](screenshot/dashboard.png)
