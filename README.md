@@ -51,3 +51,22 @@ src/
   ```
 ## 📸 Screenshots
 ![Dashboard Screenshot](screenshot/dashboard.png)
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+---
+
+### ✅ Steps for You:
+1. Create a folder in your project root:
+   Screenshot
+2. Save your image as:
+   screenshots/dashboard.png
+3. Replace your current `README.md` with the above content.  
+4. Commit and push:
+```bash
+git add README.md screenshots/dashboard.png
+git commit -m "Added final README with screenshot"
+git push origin main
+```
